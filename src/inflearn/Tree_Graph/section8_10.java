@@ -3,7 +3,7 @@ package inflearn.Tree_Graph;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class section9_10 {
+public class section8_10 {
     static class Node{
         int data;
         Node lt;
